@@ -16,7 +16,7 @@ During this challenge, I will primarily be focusing on learning and practicing K
 
 ## Projects
 [//]: # (- [Personal Project] &#40;project-1/&#41;: Project name and brief description.)
-- Not Eyat
+- Not Available.
 
 ## About Me 
 'm an enthusiastic beginner in the programming world, eager to learn and grow. This challenge is not only about improving my coding skills but also about pushing my limits and embracing continuous learning. I believe that perseverance and consistent effort will lead me to become a proficient programmer.
