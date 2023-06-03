@@ -19,7 +19,7 @@ During this challenge, I will primarily be focusing on learning and practicing K
 - Not Available.
 
 ## About Me 
-'m an enthusiastic beginner in the programming world, eager to learn and grow. This challenge is not only about improving my coding skills but also about pushing my limits and embracing continuous learning. I believe that perseverance and consistent effort will lead me to become a proficient programmer.
+I'm an enthusiastic beginner in the programming world, eager to learn and grow. This challenge is not only about improving my coding skills but also about pushing my limits and embracing continuous learning. I believe that perseverance and consistent effort will lead me to become a proficient programmer.
 
 ## Contact
 If you have any suggestions, feedback, or questions, feel free to reach out to me. You can contact me via [MAIL](mailto:mr.noman1971@gmail.com).
