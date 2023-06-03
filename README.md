@@ -16,7 +16,7 @@ During this challenge, I will primarily be focusing on learning and practicing K
 
 ## Topics Covered
 
-- [Learn Kotlin] (https://github.com/Nomans-Craft/LearnKotlin.git)
+- [Learn Kotlin](https://github.com/Nomans-Craft/LearnKotlin.git)
 
 ## Projects
 
