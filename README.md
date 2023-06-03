@@ -9,13 +9,14 @@ I've decided to take up this challenge to develop discipline, build a strong cod
 During this challenge, I will primarily be focusing on learning and practicing Kotlin. Kotlin is a modern, expressive, and powerful language that is widely used for Android app development and other applications. By mastering Kotlin, I aim to develop robust and efficient software solutions.
 
 ## Progress
-- [Day 1] (day-1): Kotlin
+- Not Available.
+<!-- - [Day 1] (day-1): Kotlin -->
 
 ## Topics Covered
 - [Learn Kotlin](https://github.com/Nomans-Craft/LearnKotlin.git)
 
 ## Projects
-[//]: # (- [Personal Project] &#40;project-1/&#41;: Project name and brief description.)
+<!-- [//]: # (- [Personal Project] &#40;project-1/&#41;: Project name and brief description.) -->
 - Not Available.
 
 ## About Me 
