@@ -10,14 +10,13 @@ I've decided to take up this challenge to develop discipline, build a strong cod
 During this challenge, I will primarily be focusing on learning and practicing Kotlin. Kotlin is a modern, expressive, and powerful language that is widely used for Android app development and other applications. By mastering Kotlin, I aim to develop robust and efficient software solutions.
 
 ## Progress
-Day 1: [Collections](src/main/kotlin/Collections.kt)
+Day 1: [Collections](https://github.com/Nomans-Craft/LearnKotlin/tree/master/src/main/kotlin/Collections.kt) (Array, Kotlin Standard Library, List, Set, Map, MutableList, MutableSet, MutableMap).
 
 ## Topics Covered
 - [x]  **Kotlin** (Basic types and variables[^1], Functions[^1], Classes and objects[^1], Subclasses[^1], superclasses and inheritance[^1], Abstract classes and interfaces and polymorphism[^1], Data classes[^1], Nulls and exceptions [^1], Collections[^1], Generics[^1], Lambdas and higher-order functions[^1], Built-in higher-order functions[^1], Coroutines[^1], Testing[^1] *and continues...* 
 
 ## Projects
 - [Learn Kotlin](https://github.com/Nomans-Craft/LearnKotlin.git)
-<!-- [//]: # (- [Personal Project] &#40;project-1/&#41;: Project name and brief description.) -->
 
 ## About Me 
 I'm an enthusiastic beginner in the programming world, eager to learn and grow. This challenge is not only about improving my coding skills but also about pushing my limits and embracing continuous learning. I believe that perseverance and consistent effort will lead me to become a proficient programmer.
@@ -26,4 +25,5 @@ I'm an enthusiastic beginner in the programming world, eager to learn and grow. 
 If you have any suggestions, feedback, or questions, feel free to reach out to me. You can contact me via [MAIL](mailto:mr.noman1971@gmail.com). 
 
 [^1]: [Head First Kotlin: A Brain-Friendly Guide](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/)
+
 
