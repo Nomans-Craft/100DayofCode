@@ -11,10 +11,11 @@ During this challenge, I will primarily be focusing on learning and practicing K
 
 ## Progress
 Day 1: [Collections](https://github.com/Nomans-Craft/LearnKotlin/commits?author=Nomans-Craft) (~~Array~~, ~~Kotlin Standard Library~~, ~~List~~, Set, Map, MutableList, MutableSet, MutableMap).
+
 Day 2: [Generics](https://github.com/Nomans-Craft/LearnKotlin/commits?author=Nomans-Craft) ().
 
 ## Topics Covered
-- [x]  **Kotlin**[^1] (Basic types and variables[^1], Functions[^1], Classes and objects[^1], Subclasses[^1], superclasses and inheritance[^1], Abstract classes and interfaces and polymorphism[^1], Data classes[^1], Nulls and exceptions [^1], Collections[^1], Generics[^1], Lambdas and higher-order functions[^1], Built-in higher-order functions[^1], Coroutines[^1], Testing[^1] *and continues...* 
+- [x]  **Kotlin**[^1] (Basic types and variables, Functions, Classes and objects, Subclasses, superclasses and inheritance, Abstract classes and interfaces and polymorphism Data classes, Nulls and exceptions, Collections, Generics, Lambdas and higher-order functions, Built-in higher-order functions, Coroutines, Testing *and continues...* 
 
 ## Projects
 - [Learn Kotlin](https://github.com/Nomans-Craft/LearnKotlin.git)
