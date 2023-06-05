@@ -11,7 +11,7 @@ I've decided to take up this challenge to develop discipline, build a strong cod
 During this 100-day coding challenge, I will be immersing myself in the following programming languages and technologies:
 
 - **Programming Languages**: Kotlin, JavaScript, Python
--   **Android Development**: React Native, Android Jetpack, Retrofit, Room, MVVM Architecture, Firebase, 
+-   **Android Development**: React Native, Android Jetpack, Retrofit, Room, MVVM Architecture, Firebase
 - **Front-end Development**: HTML5, CSS3, React, 
 - **Back-end Development**: Ktor, Spring Boot with Kotlin, Node.js
 - **Database**: SQLite, PostgreSQL, MongoDB
