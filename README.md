@@ -1,21 +1,33 @@
 
+
 # 100 Days of Code Challenge
 
-Welcome to my 100 Days of Code challenge repository! This repository serves as a tracking tool for my progress as I embark on a journey to learn programming and improve my skills. The challenge involves coding for at least an hour every day for 100 consecutive days.
+Welcome to my 100 Days of Code challenge repository! This repository serves as a tracking tool for my progress as I embark on a journey to learn programming and improve my skills. The challenge involves coding for a minimum of 4 hours every day for 100 consecutive days.
 
 ## Motivation
 I've decided to take up this challenge to develop discipline, build a strong coding foundation, and enhance my problem-solving skills. This challenge will help me explore different programming concepts and technologies, and eventually, become a proficient developer.
 
-## Programming Language
-During this challenge, I will primarily be focusing on learning and practicing Kotlin. Kotlin is a modern, expressive, and powerful language that is widely used for Android app development and other applications. By mastering Kotlin, I aim to develop robust and efficient software solutions.
+## Programming Languages and Technologies to Learn
+During this 100-day coding challenge, I will be immersing myself in the following programming languages and technologies:
+
+- **Programming Languages**: Kotlin, JavaScript, Python
+-   **Android Development**: React Native, Android Jetpack, Retrofit, Room, MVVM Architecture, Firebase, 
+- **Front-end Development**: HTML5, CSS3, React, 
+- **Back-end Development**: Ktor, Spring Boot with Kotlin, Node.js
+- **Database**: SQLite, PostgreSQL, MongoDB
+- **Version Control**: Git, GitHub
+- **Testing**: Jest, Mocha, Chai
+- **Deployment**: AWS, Heroku
+- **Other Tools**: IntelliJ IDEA, Android Studio, Visual Studio Code
+
 
 ## Progress
-Day 1: [Collections](https://github.com/Nomans-Craft/LearnKotlin/commits?author=Nomans-Craft) (~~Array~~, ~~Kotlin Standard Library~~, ~~List~~, Set, Map, MutableList, MutableSet, MutableMap).
+Day 1: [Kotlin Collections](https://github.com/Nomans-Craft/LearnKotlin/commits?author=Nomans-Craft) (Array, Kotlin Standard Library, List, Set, Map, MutableList, MutableSet, MutableMap, etc.)
 
-Day 2: [Generics](https://github.com/Nomans-Craft/LearnKotlin/commits?author=Nomans-Craft) ().
+Day 2: [Kotlin Generics](https://github.com/Nomans-Craft/LearnKotlin/commits?author=Nomans-Craft)
 
 ## Topics Covered
-- [x]  **Kotlin**[^1] (Basic types and variables, Functions, Classes and objects, Subclasses, superclasses and inheritance, Abstract classes and interfaces and polymorphism Data classes, Nulls and exceptions, Collections, Generics, Lambdas and higher-order functions, Built-in higher-order functions, Coroutines, Testing *and continues...* 
+- [x] **Kotlin**[^1] (Basic types and variables, Functions, Classes and objects, Subclasses, superclasses and inheritance, Abstract classes and interfaces and polymorphism Data classes, Nulls and exceptions, Collections, Generics, Lambdas and higher-order functions, Built-in higher-order functions, Coroutines, Testing *and continues...* 
 
 ## Projects
 - [Learn Kotlin](https://github.com/Nomans-Craft/LearnKotlin.git)
@@ -27,5 +39,3 @@ I'm an enthusiastic beginner in the programming world, eager to learn and grow. 
 If you have any suggestions, feedback, or questions, feel free to reach out to me. You can contact me via [MAIL](mailto:mr.noman1971@gmail.com). 
 
 [^1]: [Head First Kotlin: A Brain-Friendly Guide](https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/)
-
-
