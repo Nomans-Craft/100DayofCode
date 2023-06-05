@@ -12,7 +12,7 @@ During this 100-day coding challenge, I will be immersing myself in the followin
 
 - **Programming Languages**: Kotlin, JavaScript, Python
 -   **Android Development**: React Native, Android Jetpack, Retrofit, Room, MVVM Architecture, Firebase
-- **Front-end Development**: HTML5, CSS3, React, 
+- **Front-end Development**: HTML5, CSS3, React, Bootstrap, Tailwind CSS 
 - **Back-end Development**: Ktor, Spring Boot with Kotlin, Node.js
 - **Database**: SQLite, PostgreSQL, MongoDB
 - **Version Control**: Git, GitHub
